@@ -18,7 +18,7 @@ Linux(Bash): `convert.sh`
     "name_format": "{old_name}_resized"
 }
 ```
-size(width/height): px単位での幅と高さ(nullだとそのまま)
+size(width/height): px単位での幅と高さ(nullだとそのまま)<br>
 name_format: 名前の形式({index}で番号(0から)/{old_name}で前のファイル名)
 ---
 created by ap12
